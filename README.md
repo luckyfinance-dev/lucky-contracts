@@ -1,6 +1,6 @@
 # Lucky Financial
 
-https://lucky.financial Feel free to read the code. More details coming soon.
+https://lucky.financial Feel free to read the code. Plenty more details coming soon, please refer as well to the info section of the website. Get Lucky!
 
 ## Deployed Contracts / Hash
 
