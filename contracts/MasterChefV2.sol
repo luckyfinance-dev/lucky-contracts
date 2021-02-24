@@ -8,7 +8,7 @@ import "./libs/SafeBEP20.sol";
 import "@openzeppelin/contracts/access/Ownable.sol";
 import "@openzeppelin/contracts/utils/ReentrancyGuard.sol";
 
-import "./GFTToken.sol";
+import "./GoodFortuneToken.sol";
 
 // MasterChef is the master of GFT. He can make GFT and he is a fair guy.
 //
@@ -48,7 +48,7 @@ contract MasterChefV2 is Ownable, ReentrancyGuard {
     }
 
     // The GFT TOKEN!
-    GFTToken public GFT;
+    GoodFortuneToken public GFT;
     // Dev address.
     address public devaddr;
     // GFT tokens created per block.
@@ -75,7 +75,7 @@ contract MasterChefV2 is Ownable, ReentrancyGuard {
     event UpdateEmissionRate(address indexed user, uint256 goosePerBlock);
 
     constructor(
-        GFTToken _GFT,
+        GoodFortuneToken _GFT,
         address _devaddr,
         address _feeAddress,
         uint256 _GFTPerBlock,

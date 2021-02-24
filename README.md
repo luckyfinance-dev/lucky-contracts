@@ -10,3 +10,7 @@ https://lucky.financial Feel free to read the code. Plenty more details coming s
 - MasterChef - (Add BSC Scan Hash Address)
 - Timelock - (Add BSC Scan Hash Address)
 - MultiCall - (Add BSC Scan Hash Address)
+
+### GFToken
+### GFT
+### GoodFortuneToken
