@@ -72,7 +72,7 @@ contract MasterChefV2 is Ownable, ReentrancyGuard {
     event EmergencyWithdraw(address indexed user, uint256 indexed pid, uint256 amount);
     event SetFeeAddress(address indexed user, address indexed newAddress);
     event SetDevAddress(address indexed user, address indexed newAddress);
-    event UpdateEmissionRate(address indexed user, uint256 goosePerBlock);
+    event UpdateEmissionRate(address indexed user, uint256 luckyPerBlock);
 
     constructor(
         GoodFortuneToken _GFT,
