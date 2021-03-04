@@ -7,3 +7,10 @@
 /test/
 /accounts.json
 /truffle-config.js
+.secret
+.DS_Store
+*.bak
+backup/MasterChefV2.sol
+backup/MasterChef.sol
+package-lock.json
+*.icloud
