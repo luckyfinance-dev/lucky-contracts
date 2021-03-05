@@ -10,7 +10,7 @@ https://lucky.financial Feel free to read the code. More details coming soon.
 - MasterChefV2 - https://bscscan.com/address/0x9D34e58F1792bFa62ABEb08816E10B5B3aB1eac6
 - Timelock - https://bscscan.com/address/0x9074EF83B3a8BF6885C1930BA177d781a1bbb1D1
 - MultiCall - https://bscscan.com/address/0x1ee38d535d541c55c9dae27b12edf090c608e6fb
-^ Verify Multicall ?
+^ Original Multicall all Pancake Forks Use.
 
 ## Deployment
 
